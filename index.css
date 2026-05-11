@@ -1,0 +1,32 @@
+body{background-image: url(2.png);}
+header{display: flex;}
+.head_photo{margin-left: 110px;
+width: 130px;}
+ul{
+    list-style: none;
+    margin-top: 10px;
+    
+    margin-left: 20px;
+    display: flex;
+    color: white;
+    font: 23px Helvetica;
+}
+li{padding: 15px;}
+input{width: 350px;
+height: 30px;
+border-radius: 42px;
+border: white 1px solid;
+outline: none;
+position: relative;
+transition: .3s linear;
+background-color: #641180;
+margin-top: 7%;
+
+
+}
+
+::placeholder{color:white;
+font: 18px Helvetica;}
+.social{margin-top: 1.30%;
+margin-left: 15px;
+}
