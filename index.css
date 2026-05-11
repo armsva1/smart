@@ -1,4 +1,5 @@
-body{background-image: url(2.png);}
+body{background-image: url(2.png);
+    background-repeat: no-repeat}
 header{display: flex;}
 .head_photo{margin-left: 110px;
 width: 130px;}
